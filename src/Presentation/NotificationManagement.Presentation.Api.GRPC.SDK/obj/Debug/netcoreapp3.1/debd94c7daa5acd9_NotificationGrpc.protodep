@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1/NotificationGrpc.cs \
+obj\Debug\netcoreapp3.1/NotificationGrpcGrpc.cs: ../NotificationManagement.Presentation.Api.GRPC/Proto/NotificationGrpc.proto

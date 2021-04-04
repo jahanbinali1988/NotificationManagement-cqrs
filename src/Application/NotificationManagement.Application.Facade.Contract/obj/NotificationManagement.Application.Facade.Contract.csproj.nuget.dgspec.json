@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mm\\source\\repos\\Khanoumi.NotificationManagement\\src\\Application\\NotificationManagement.Application.Facade.Contract\\NotificationManagement.Application.Facade.Contract.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mm\\source\\repos\\Khanoumi.NotificationManagement\\src\\Application\\NotificationManagement.Application.Command.Contract\\NotificationManagement.Application.Command.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mm\\source\\repos\\Khanoumi.NotificationManagement\\src\\Application\\NotificationManagement.Application.Command.Contract\\NotificationManagement.Application.Command.Contract.csproj",
+        "projectName": "NotificationManagement.Application.Command.Contract",
+        "projectPath": "C:\\Users\\mm\\source\\repos\\Khanoumi.NotificationManagement\\src\\Application\\NotificationManagement.Application.Command.Contract\\NotificationManagement.Application.Command.Contract.csproj",
+        "packagesPath": "C:\\Users\\mm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mm\\source\\repos\\Khanoumi.NotificationManagement\\src\\Application\\NotificationManagement.Application.Command.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\mm\\Documents\\Local Nuget Package": {},
+          "http://nuget.scratnet.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mm\\source\\repos\\Khanoumi.NotificationManagement\\src\\Application\\NotificationManagement.Application.Facade.Contract\\NotificationManagement.Application.Facade.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mm\\source\\repos\\Khanoumi.NotificationManagement\\src\\Application\\NotificationManagement.Application.Facade.Contract\\NotificationManagement.Application.Facade.Contract.csproj",
+        "projectName": "NotificationManagement.Application.Facade.Contract",
+        "projectPath": "C:\\Users\\mm\\source\\repos\\Khanoumi.NotificationManagement\\src\\Application\\NotificationManagement.Application.Facade.Contract\\NotificationManagement.Application.Facade.Contract.csproj",
+        "packagesPath": "C:\\Users\\mm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mm\\source\\repos\\Khanoumi.NotificationManagement\\src\\Application\\NotificationManagement.Application.Facade.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\mm\\Documents\\Local Nuget Package": {},
+          "http://nuget.scratnet.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\mm\\source\\repos\\Khanoumi.NotificationManagement\\src\\Application\\NotificationManagement.Application.Command.Contract\\NotificationManagement.Application.Command.Contract.csproj": {
+                "projectPath": "C:\\Users\\mm\\source\\repos\\Khanoumi.NotificationManagement\\src\\Application\\NotificationManagement.Application.Command.Contract\\NotificationManagement.Application.Command.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

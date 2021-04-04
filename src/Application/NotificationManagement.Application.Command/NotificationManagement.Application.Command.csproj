@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\..\Domain\NotificationManagement.Domain\NotificationManagement.Domain.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\NotificationManagement.Persistence.Mongo\NotificationManagement.Persistence.Mongo.csproj" />
+    <ProjectReference Include="..\NotificationManagement.Application.Command.Contract\NotificationManagement.Application.Command.Contract.csproj" />
+    <ProjectReference Include="..\NotificationManagement.Application.Facade.Contract\NotificationManagement.Application.Facade.Contract.csproj" />
+  </ItemGroup>
+
+</Project>

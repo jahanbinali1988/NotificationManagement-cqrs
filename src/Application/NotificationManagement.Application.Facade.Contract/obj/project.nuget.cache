@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4h8P8atMvaR2G/auQKsAakklpWGcncrwtY/j7JHRybSU4veLe3oniFV4rcPV8A5sY4KcZgvLDKhnlE2lvIY1iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mm\\source\\repos\\Khanoumi.NotificationManagement\\src\\Application\\NotificationManagement.Application.Facade.Contract\\NotificationManagement.Application.Facade.Contract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mm\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

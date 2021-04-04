@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vuXlKKjX6ogeYzKmlVHHeLFbzp2EwZLxTkdsPtRECgHp7Dv2ZYBWH2bDjqkiC3F+zcSOx+BlQ+Rk2nB2CgBQVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mm\\source\\repos\\Khanoumi.NotificationManagement\\Common\\GatewayAuthentication\\Common.Authentication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mm\\.nuget\\packages\\pawny.common\\0.2.1\\pawny.common.0.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

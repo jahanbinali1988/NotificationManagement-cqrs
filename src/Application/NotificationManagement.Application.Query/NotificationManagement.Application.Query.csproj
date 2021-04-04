@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Pawny.Common" Version="0.2.1" />
+    <PackageReference Include="Mapster" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="3.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Common\CacheHelper\CacheHelper.csproj" />
+    <ProjectReference Include="..\..\..\Common\Common.Core\Common.Core.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\NotificationManagement.Query.Mongo\NotificationManagement.Query.Mongo.csproj" />
+    <ProjectReference Include="..\NotificationManagement.Application.Query.Contract\NotificationManagement.Application.Query.Contract.csproj" />
+  </ItemGroup>
+  
+</Project>

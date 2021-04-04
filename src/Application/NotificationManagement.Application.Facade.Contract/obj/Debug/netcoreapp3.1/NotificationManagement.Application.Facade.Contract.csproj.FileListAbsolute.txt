@@ -1,0 +1,12 @@
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Application\NotificationManagement.Application.Facade.Contract\bin\Debug\netcoreapp3.1\NotificationManagement.Application.Facade.Contract.deps.json
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Application\NotificationManagement.Application.Facade.Contract\bin\Debug\netcoreapp3.1\NotificationManagement.Application.Facade.Contract.dll
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Application\NotificationManagement.Application.Facade.Contract\bin\Debug\netcoreapp3.1\NotificationManagement.Application.Facade.Contract.pdb
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Application\NotificationManagement.Application.Facade.Contract\obj\Debug\netcoreapp3.1\NotificationManagement.Application.Facade.Contract.AssemblyInfoInputs.cache
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Application\NotificationManagement.Application.Facade.Contract\obj\Debug\netcoreapp3.1\NotificationManagement.Application.Facade.Contract.AssemblyInfo.cs
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Application\NotificationManagement.Application.Facade.Contract\obj\Debug\netcoreapp3.1\NotificationManagement.Application.Facade.Contract.csproj.CoreCompileInputs.cache
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Application\NotificationManagement.Application.Facade.Contract\obj\Debug\netcoreapp3.1\NotificationManagement.Application.Facade.Contract.dll
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Application\NotificationManagement.Application.Facade.Contract\obj\Debug\netcoreapp3.1\NotificationManagement.Application.Facade.Contract.pdb
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Application\NotificationManagement.Application.Facade.Contract\bin\Debug\netcoreapp3.1\NotificationManagement.Application.Command.Contract.dll
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Application\NotificationManagement.Application.Facade.Contract\bin\Debug\netcoreapp3.1\NotificationManagement.Application.Command.Contract.pdb
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Application\NotificationManagement.Application.Facade.Contract\obj\Debug\netcoreapp3.1\NotificationManagement.Application.Facade.Contract.csprojAssemblyReference.cache
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Application\NotificationManagement.Application.Facade.Contract\obj\Debug\netcoreapp3.1\NotificationManagement.Application.Facade.Contract.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Presentation\NotificationManagement.Presentation.Consumer.Contract\bin\Debug\netcoreapp3.1\NotificationManagement.Presentation.Consumer.Contract.deps.json
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Presentation\NotificationManagement.Presentation.Consumer.Contract\bin\Debug\netcoreapp3.1\NotificationManagement.Presentation.Consumer.Contract.dll
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Presentation\NotificationManagement.Presentation.Consumer.Contract\bin\Debug\netcoreapp3.1\NotificationManagement.Presentation.Consumer.Contract.pdb
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Presentation\NotificationManagement.Presentation.Consumer.Contract\bin\Debug\netcoreapp3.1\RabbitMQHelper.dll
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Presentation\NotificationManagement.Presentation.Consumer.Contract\bin\Debug\netcoreapp3.1\RabbitMQHelper.pdb
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Presentation\NotificationManagement.Presentation.Consumer.Contract\obj\Debug\netcoreapp3.1\NotificationManagement.Presentation.Consumer.Contract.csprojAssemblyReference.cache
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Presentation\NotificationManagement.Presentation.Consumer.Contract\obj\Debug\netcoreapp3.1\NotificationManagement.Presentation.Consumer.Contract.AssemblyInfoInputs.cache
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Presentation\NotificationManagement.Presentation.Consumer.Contract\obj\Debug\netcoreapp3.1\NotificationManagement.Presentation.Consumer.Contract.AssemblyInfo.cs
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Presentation\NotificationManagement.Presentation.Consumer.Contract\obj\Debug\netcoreapp3.1\NotificationManagement.Presentation.Consumer.Contract.csproj.CoreCompileInputs.cache
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Presentation\NotificationManagement.Presentation.Consumer.Contract\obj\Debug\netcoreapp3.1\NotificationManagement.Presentation.Consumer.Contract.csproj.CopyComplete
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Presentation\NotificationManagement.Presentation.Consumer.Contract\obj\Debug\netcoreapp3.1\NotificationManagement.Presentation.Consumer.Contract.dll
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Presentation\NotificationManagement.Presentation.Consumer.Contract\obj\Debug\netcoreapp3.1\NotificationManagement.Presentation.Consumer.Contract.pdb
